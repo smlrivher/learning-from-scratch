@@ -1,6 +1,5 @@
 package com.soymach.automation.dashboard.controller.api;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
 import com.soymach.automation.dashboard.model.AutomationDashboard;
 import com.soymach.automation.dashboard.service.AutomationDashboardService;
 import com.soymach.automation.dashboard.service.PlatformService;
